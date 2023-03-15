@@ -11,6 +11,7 @@ Se puede descargar y utilizar sin problemas, en el archivo db.php dentro de la c
 los parametros para la conexion a la base de datos, por defecto vienen seteados sin modificar para uso publico y comun.
 
 Agregando
+</br>
 ![agregandoUsuario](https://user-images.githubusercontent.com/104247851/225218335-1319b662-3384-4657-a667-59856f6d8b9e.JPG)
 
 Eliminando
